@@ -76,7 +76,7 @@ Responder cuatro preguntas a partir de los datos:
 ##  Estructura del repositorio
 
 ```
-amazon-bestsellers-analysis/
+amazon_bestsellers_analysis/
 ├── data/
 │   ├── raw/          # CSV original, sin modificar
 │   └── processed/    # Dataset limpio
